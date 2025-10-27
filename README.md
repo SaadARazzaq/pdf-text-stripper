@@ -77,6 +77,18 @@ The file is loaded into a `fitz.Document` object, allowing direct access to all 
 
 ---
 
+## Results
+
+Below is a visual comparison showing how **PDFTextStripper** removes all text while preserving images, graphics, and color layers perfectly.
+
+| 📝 **Input PDF (With Text)** | 🧼 **Output PDF (Text Removed)** |
+|------------------------------|----------------------------------|
+| <img width="294" height="419" alt="Input PDF" src="https://github.com/user-attachments/assets/8c51f423-b7b6-4095-9716-9d93420ab497" /> | <img width="292" height="420" alt="Output PDF" src="https://github.com/user-attachments/assets/bdc4ee11-8a71-4724-8be1-4f2389f60c3e" /> |
+
+✨ Notice how all text elements are removed, yet **graphics, colors, and vector elements** remain completely intact — preserving the original design quality.
+
+---
+
 ## Why This Works Better
 
 Most PDF cleaning tools either:
