@@ -130,7 +130,7 @@ pdf-text-stripper/
 
 AI & ML Engineer | Effixly
 
-📬 [Follow me on LinkedIn](linkedin.com/in/saadarazzaq)
+📬 [Follow me on LinkedIn](https://linkedin.com/in/saadarazzaq)
 
 📧 [Mail Me: sabdurrazzaq124@gmail.com](mailto:sabdurrazzaq124@gmail.com)
 
